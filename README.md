@@ -19,7 +19,7 @@
 ### ![image](https://github.com/Jang-jw/Python/assets/134268098/30ba2ca2-16cd-4b94-856a-3d422424b742)
 ### ![image](https://github.com/Jang-jw/Python/assets/134268098/44460c00-ba8e-4965-98ab-c4dac617c886)
 ### ![image](https://github.com/Jang-jw/Python/assets/134268098/77b872c3-4051-4072-b471-af3cdc3d2de8)
-### 딧셔너리 
+### 딕셔너리 
 ### ![image](https://github.com/Jang-jw/Python/assets/134268098/b0996ed0-85a6-4172-95d4-1b3e371b8f1f)
 ### 함수 
 ### ![image](https://github.com/Jang-jw/Python/assets/134268098/afb9bd75-7087-42a6-aa25-d6187b7ec0b3)
@@ -47,5 +47,20 @@
 ### ![image](https://github.com/Jang-jw/Python/assets/134268098/54476e59-99d6-46c8-8a15-aac354262f3c)
 ### ![image](https://github.com/Jang-jw/Python/assets/134268098/9e5045e1-1862-4b84-9b06-5298417fa615)
 ### ![image](https://github.com/Jang-jw/Python/assets/134268098/5b47cadd-159d-42f9-beb3-92842dca06ea)
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/5f8ea928-057c-4405-83a5-6d26e4d555f8)
+### 데이터 시각화 
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/3a9825b1-6249-4133-9de8-144f40f3c034)
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/f0c39118-d95a-4305-8b30-9c83ea2c350f)
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/742a2e47-c419-403f-bf79-467c7340f6fc)
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/d9c60039-dfa8-4a20-8862-2715c8c1c7e2)
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/ce267013-26d6-45d5-94ab-39e71f4299af)
+### ![Python_code_46](https://github.com/Jang-jw/Python/assets/134268098/e35317c3-a3ee-420f-87e1-35b72aa341c9)
+### ![Python_code_47](https://github.com/Jang-jw/Python/assets/134268098/dfe70ebb-7feb-4178-a561-d4b4bd07c086)
+### Python 시험 
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/a392f933-1231-44df-a466-2b3e107ac48c)
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/37f4a8a5-ef39-4efb-bd56-9f587a7adf04)
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/3d8ca072-31b4-449a-9c63-a7b72c85a115)
+### ![image](https://github.com/Jang-jw/Python/assets/134268098/8bd41349-d0a2-4695-98a4-afd6a95d7124)
 
-### 
+
+
